@@ -126,6 +126,7 @@ nav {
       }
       div {
         display: flex;
+        justify-content: start;
         gap: 20px;
         button {
           height: 50px;

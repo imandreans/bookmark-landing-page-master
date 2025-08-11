@@ -11979,6 +11979,7 @@ nav ul li:nth-child(2) {
 }
 #hero div section div {
   display: flex;
+  justify-content: start;
   gap: 20px;
 }
 #hero div section div button {
