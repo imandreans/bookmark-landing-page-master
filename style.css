@@ -12343,9 +12343,8 @@ footer #social-media li svg path:hover {
     justify-content: center;
     align-items: center;
   }
-  #hero div svg {
+  #hero div img {
     width: 100%;
-    z-index: 99;
   }
   #hero div section h1, #hero div section .h1 {
     font-size: 1.8rem;
