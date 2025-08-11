@@ -30,35 +30,35 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop](./Desktop.png)
+![Mobile](./Mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/imandreans/bookmark-landing-page-master)
+- Live Site URL: [Live Site](https://imandreans.github.io/bookmark-landing-page-master/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- SCSS
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
+- Bootstrap 5
+- Vanilla Javascript
 
 ### What I learned
 
+Been a while since I build Front End Manager. I learned a lot how to import and use bootstrap 5 and use Javascript to validate the input email.
+
 ### Continued development
 
-### Useful resources
+There are a lot of things I should cover later. Like the size of image on hero section is too big on Mobile Screen. Also, a lot of adjustment on how i write the HTML and CSS (it's not really pretty to see), improve the consistency of the color and size of each component, and fix the design tablet in tablet mode.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+- Website - [Andrean](https://imandreans.github.io/portfolio/)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/imandreans)
+- Twitter - [@imandreans](https://www.twitter.com/imandreans)
